@@ -2,5 +2,6 @@
 fastapi
 uvicorn
 markdown
-pdfkit
 requests
+python-multipart
+weasyprint
